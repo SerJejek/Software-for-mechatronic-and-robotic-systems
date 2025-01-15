@@ -1,0 +1,5 @@
+VAR
+	stateMachine : FB_StateMachine;
+	doorSM : FB_DoorSM;
+	ledSM : FB_LedSM;
+END_VAR
